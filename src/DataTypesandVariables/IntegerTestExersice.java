@@ -1,4 +1,4 @@
-package JavaTutorials;
+package DataTypesandVariables;
 
 public class IntegerTestExersice {
 
